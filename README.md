@@ -1,1 +1,1 @@
-# Edu-x
+# Freedu
